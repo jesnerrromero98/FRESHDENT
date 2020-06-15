@@ -1,0 +1,12 @@
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionCita\obj\Debug\CapaPresentacionCita.especialidad.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionCita\obj\Debug\CapaPresentacionCita.fCita.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionCita\obj\Debug\CapaPresentacionConsulta.fConsulta.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionCita\obj\Debug\CapaPresentacionEspecialidad.fEspecialidad.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionCita\obj\Debug\CapaPresentacionMedico.fMedico.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionCita\obj\Debug\CapaPresentacionReceta.fReceta.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionCita\obj\Debug\CapaPresentacionExpediente.MDIExpediente.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionCita\obj\Debug\CapaPresentacionExpediente.fExpediente.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionCita\obj\Debug\CapaPresentacionCita.Properties.Resources.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionCita\obj\Debug\CapaPresentacionCita.csproj.GenerateResource.cache
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionCita\obj\Debug\CapaPresentacionCita.csproj.CoreCompileInputs.cache
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionCita\obj\Debug\CapaPresentacionCita.csprojAssemblyReference.cache

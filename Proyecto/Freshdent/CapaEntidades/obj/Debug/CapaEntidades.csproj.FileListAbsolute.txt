@@ -1,0 +1,22 @@
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaEntidades\obj\Debug\CapaEntidades.pdb
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaEntidades\bin\Debug\CapaEntidades.dll
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaEntidades\bin\Debug\CapaEntidades.pdb
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaEntidades\obj\Debug\CapaEntidades.dll
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaEntidades\obj\Debug\CapaEntidades.pdb

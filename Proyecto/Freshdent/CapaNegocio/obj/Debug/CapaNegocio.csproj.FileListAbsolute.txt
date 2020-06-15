@@ -1,0 +1,44 @@
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaNegocio\obj\Debug\CapaNegocio.pdb
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaNegocio\bin\Debug\CapaNegocio.dll
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaNegocio\bin\Debug\CapaNegocio.pdb
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaNegocio\bin\Debug\CapaDatos.dll
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaNegocio\bin\Debug\CapaEntidades.dll
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaNegocio\bin\Debug\CapaDatos.pdb
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaNegocio\bin\Debug\CapaEntidades.pdb
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaNegocio\obj\Debug\CapaNegocio.dll
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaNegocio\obj\Debug\CapaNegocio.pdb

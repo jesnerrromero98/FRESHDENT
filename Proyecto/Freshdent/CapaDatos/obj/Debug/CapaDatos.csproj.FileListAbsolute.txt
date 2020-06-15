@@ -1,0 +1,36 @@
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaDatos\bin\Debug\CapaEntidades.dll
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaDatos\bin\Debug\CapaEntidades.pdb
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\CapaDatos\obj\Debug\CapaDatos.pdb
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaDatos\bin\Debug\CapaDatos.dll
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaDatos\bin\Debug\CapaEntidades.dll
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaDatos\bin\Debug\CapaEntidades.pdb
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaDatos\obj\Debug\CapaDatos.dll
+E:\Proyecto\Proyecto\Proyecto\Freshdent\CapaDatos\obj\Debug\CapaDatos.pdb

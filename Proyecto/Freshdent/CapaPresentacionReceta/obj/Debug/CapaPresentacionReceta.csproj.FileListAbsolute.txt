@@ -1,0 +1,17 @@
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionReceta\bin\Debug\CapaPresentacionReceta.exe.config
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionReceta\bin\Debug\CapaPresentacionReceta.exe
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionReceta\bin\Debug\CapaPresentacionReceta.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionReceta\bin\Debug\CapaEntidades.dll
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionReceta\bin\Debug\CapaNegocio.dll
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionReceta\bin\Debug\CapaDatos.dll
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionReceta\bin\Debug\CapaEntidades.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionReceta\bin\Debug\CapaNegocio.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionReceta\bin\Debug\CapaDatos.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionReceta\obj\Debug\CapaPresentacionReceta.csprojAssemblyReference.cache
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionReceta\obj\Debug\CapaPresentacionReceta.fReceta.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionReceta\obj\Debug\CapaPresentacionReceta.Properties.Resources.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionReceta\obj\Debug\CapaPresentacionReceta.csproj.GenerateResource.cache
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionReceta\obj\Debug\CapaPresentacionReceta.csproj.CoreCompileInputs.cache
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionReceta\obj\Debug\CapaPresentacionReceta.csproj.CopyComplete
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionReceta\obj\Debug\CapaPresentacionReceta.exe
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionReceta\obj\Debug\CapaPresentacionReceta.pdb

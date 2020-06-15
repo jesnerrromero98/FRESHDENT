@@ -1,0 +1,17 @@
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionMedico\bin\Debug\CapaPresentacionMedico.exe.config
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionMedico\bin\Debug\CapaPresentacionMedico.exe
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionMedico\bin\Debug\CapaPresentacionMedico.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionMedico\bin\Debug\CapaEntidades.dll
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionMedico\bin\Debug\CapaNegocio.dll
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionMedico\bin\Debug\CapaDatos.dll
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionMedico\bin\Debug\CapaEntidades.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionMedico\bin\Debug\CapaNegocio.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionMedico\bin\Debug\CapaDatos.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionMedico\obj\Debug\CapaPresentacionMedico.csprojAssemblyReference.cache
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionMedico\obj\Debug\CapaPresentacionMedico.fMedico.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionMedico\obj\Debug\CapaPresentacionMedico.Properties.Resources.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionMedico\obj\Debug\CapaPresentacionMedico.csproj.GenerateResource.cache
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionMedico\obj\Debug\CapaPresentacionMedico.csproj.CoreCompileInputs.cache
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionMedico\obj\Debug\CapaPresentacionMedico.csproj.CopyComplete
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionMedico\obj\Debug\CapaPresentacionMedico.exe
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionMedico\obj\Debug\CapaPresentacionMedico.pdb

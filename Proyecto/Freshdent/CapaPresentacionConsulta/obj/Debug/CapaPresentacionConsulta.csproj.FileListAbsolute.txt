@@ -1,0 +1,17 @@
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionConsulta\bin\Debug\CapaPresentacionConsulta.exe.config
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionConsulta\bin\Debug\CapaPresentacionConsulta.exe
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionConsulta\bin\Debug\CapaPresentacionConsulta.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionConsulta\bin\Debug\CapaEntidades.dll
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionConsulta\bin\Debug\CapaNegocio.dll
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionConsulta\bin\Debug\CapaDatos.dll
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionConsulta\bin\Debug\CapaEntidades.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionConsulta\bin\Debug\CapaNegocio.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionConsulta\bin\Debug\CapaDatos.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionConsulta\obj\Debug\CapaPresentacionConsulta.csprojAssemblyReference.cache
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionConsulta\obj\Debug\CapaPresentacionConsulta.fConsulta.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionConsulta\obj\Debug\CapaPresentacionConsulta.Properties.Resources.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionConsulta\obj\Debug\CapaPresentacionConsulta.csproj.GenerateResource.cache
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionConsulta\obj\Debug\CapaPresentacionConsulta.csproj.CoreCompileInputs.cache
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionConsulta\obj\Debug\CapaPresentacionConsulta.csproj.CopyComplete
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionConsulta\obj\Debug\CapaPresentacionConsulta.exe
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionConsulta\obj\Debug\CapaPresentacionConsulta.pdb

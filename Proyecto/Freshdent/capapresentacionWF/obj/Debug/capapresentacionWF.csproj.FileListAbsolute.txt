@@ -1,0 +1,99 @@
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\capapresentacionWF.exe.config
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\capapresentacionWF.exe
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\capapresentacionWF.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\CapaEntidades.dll
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\CapaNegocio.dll
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\CapaDatos.dll
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\CapaEntidades.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\CapaNegocio.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\CapaDatos.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.csprojAssemblyReference.cache
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\CapaPresentacionConsulta.fConsulta.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\CapaPresentacionEspecialidad.fEspecialidad.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\CapaPresentacionExpediente.fExpediente.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\CapaPresentacionMedico.fMedico.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.Form1.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\CapaPresentacionReceta.fReceta.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.Login.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.Properties.Resources.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.registroMDI.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.csproj.GenerateResource.cache
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.csproj.CoreCompileInputs.cache
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.csproj.CopyComplete
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.exe
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.pdb
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\capapresentacionWF\bin\Debug\capapresentacionWF.exe.config
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\capapresentacionWF\bin\Debug\capapresentacionWF.exe
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\capapresentacionWF\bin\Debug\capapresentacionWF.pdb
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\capapresentacionWF\bin\Debug\CapaEntidades.dll
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\capapresentacionWF\bin\Debug\CapaNegocio.dll
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\capapresentacionWF\bin\Debug\CapaDatos.dll
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\capapresentacionWF\bin\Debug\CapaEntidades.pdb
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\capapresentacionWF\bin\Debug\CapaNegocio.pdb
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\capapresentacionWF\bin\Debug\CapaDatos.pdb
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.csprojAssemblyReference.cache
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\capapresentacionWF\obj\Debug\CapaPresentacionConsulta.fConsulta.resources
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\capapresentacionWF\obj\Debug\CapaPresentacionEspecialidad.fEspecialidad.resources
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\capapresentacionWF\obj\Debug\CapaPresentacionExpediente.fExpediente.resources
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\capapresentacionWF\obj\Debug\CapaPresentacionMedico.fMedico.resources
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.fCita.resources
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\capapresentacionWF\obj\Debug\CapaPresentacionReceta.fReceta.resources
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.Login.resources
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.Properties.Resources.resources
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.registroMDI.resources
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.csproj.GenerateResource.cache
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.csproj.CoreCompileInputs.cache
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.csproj.CopyComplete
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.exe
+C:\Users\Elkin Maltez\Documents\Ingenieria en Sistema\2020\I Semestre\Programación de Base de Datos\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.pdb
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\capapresentacionWF.exe.config
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\capapresentacionWF.exe
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\capapresentacionWF.pdb
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\CapaEntidades.dll
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\CapaNegocio.dll
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\CapaDatos.dll
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\CapaEntidades.pdb
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\CapaNegocio.pdb
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\CapaDatos.pdb
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\CapaPresentacionConsulta.fConsulta.resources
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\CapaPresentacionEspecialidad.fEspecialidad.resources
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\CapaPresentacionExpediente.fExpediente.resources
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\CapaPresentacionMedico.fMedico.resources
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.fCita.resources
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\CapaPresentacionReceta.fReceta.resources
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.Login.resources
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.Properties.Resources.resources
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.registroMDI.resources
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.csproj.GenerateResource.cache
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.csproj.CopyComplete
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.exe
+C:\Users\Kevin\Desktop\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.pdb
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.csprojAssemblyReference.cache
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\CapaPresentacionConsulta.fConsulta.resources
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\CapaPresentacionEspecialidad.fEspecialidad.resources
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\CapaPresentacionExpediente.fExpediente.resources
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\CapaPresentacionMedico.fMedico.resources
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.Fcitas.resources
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\CapaPresentacionReceta.fReceta.resources
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.Login.resources
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.Properties.Resources.resources
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.registroMDI.resources
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\CapaPresentacionConsulta.fConsulta.zu.resources
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.csproj.GenerateResource.cache
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.csproj.CoreCompileInputs.cache
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\capapresentacionWF.exe.config
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\capapresentacionWF.exe
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\capapresentacionWF.pdb
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\zu\capapresentacionWF.resources.dll
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\CapaEntidades.dll
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\CapaNegocio.dll
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\CapaDatos.dll
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\CapaEntidades.pdb
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\CapaNegocio.pdb
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\bin\Debug\CapaDatos.pdb
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\zu\capapresentacionWF.resources.dll
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.csproj.CopyComplete
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.exe
+E:\Proyecto\Proyecto\Proyecto\Freshdent\capapresentacionWF\obj\Debug\capapresentacionWF.pdb

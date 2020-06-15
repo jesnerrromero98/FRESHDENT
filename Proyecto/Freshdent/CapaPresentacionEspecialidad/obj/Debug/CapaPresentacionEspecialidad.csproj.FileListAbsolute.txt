@@ -1,0 +1,17 @@
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionEspecialidad\bin\Debug\CapaPresentacionEspecialidad.exe.config
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionEspecialidad\bin\Debug\CapaPresentacionEspecialidad.exe
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionEspecialidad\bin\Debug\CapaPresentacionEspecialidad.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionEspecialidad\bin\Debug\CapaEntidades.dll
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionEspecialidad\bin\Debug\CapaNegocio.dll
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionEspecialidad\bin\Debug\CapaDatos.dll
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionEspecialidad\bin\Debug\CapaEntidades.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionEspecialidad\bin\Debug\CapaNegocio.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionEspecialidad\bin\Debug\CapaDatos.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionEspecialidad\obj\Debug\CapaPresentacionEspecialidad.fEspecialidad.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionEspecialidad\obj\Debug\CapaPresentacionEspecialidad.Properties.Resources.resources
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionEspecialidad\obj\Debug\CapaPresentacionEspecialidad.csproj.GenerateResource.cache
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionEspecialidad\obj\Debug\CapaPresentacionEspecialidad.csproj.CoreCompileInputs.cache
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionEspecialidad\obj\Debug\CapaPresentacionEspecialidad.csproj.CopyComplete
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionEspecialidad\obj\Debug\CapaPresentacionEspecialidad.exe
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionEspecialidad\obj\Debug\CapaPresentacionEspecialidad.pdb
+C:\Users\Jesner romero\Downloads\Proyecto\Proyecto\Freshdent\CapaPresentacionEspecialidad\obj\Debug\CapaPresentacionEspecialidad.csprojAssemblyReference.cache
